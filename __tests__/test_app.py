@@ -14,5 +14,5 @@ def test_bottle_version():
 def test_requests_vetrsion():
     assert (requests.__version__) == "2.23.0"
 
-def pytest():
+def test_pytest():
     assert (pytest.__version__) == "5.3.5"
