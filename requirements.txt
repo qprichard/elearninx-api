@@ -1,4 +1,4 @@
-bottle==0.12.18
+bottle==0.12.19
 pymysql==0.9.3
 requests==2.23.0
 pytest==5.3.5
